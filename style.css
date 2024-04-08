@@ -1,0 +1,370 @@
+.logo-size{
+    width: 126px;
+    height: 32px;
+}
+.nav-font-color{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    background-color:#ffffff;
+    color: #191e47;
+ box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
+}
+
+.contact-btn{
+    background-color: transparent;
+    color: rgb(204, 41, 115);
+    border: 1px solid rgb(204, 41, 115);
+}
+.c-btn:hover{
+    background-color: rgb(204, 41, 115);
+    color:white;
+}
+
+.li:hover{
+    color:#4555d2;
+}
+.dropdwon:hover.dropdown-menu{
+    display: block;
+
+}
+
+.fixbtn{
+    position: fixed;
+    top: 580px;
+    bottom: 20px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #44434a;
+    z-index: 2;
+}
+
+.home-hw{position: relative;
+}
+
+.dco-img{position: absolute;
+    width: 500px;
+    top: 200px;
+    left: -200px;
+    opacity: 0.7;
+}
+
+.dco-img2{position: absolute;
+    width: 600px;
+    top: 200px;
+    right: -990px;
+opacity: 0.7;
+}
+.header-img{
+    position: absolute;
+    top: 200px;
+    left: 790px;
+}
+
+.title-div{
+    position: relative;
+    top: 295px;
+    left: 200px;
+}
+
+.title-heading{
+color:#191E47;
+font-size: 80px;
+font-weight: 900;
+font-family:open sans,sans-serif;
+}
+
+.details-btn{
+    background-color: #4555d2;
+    border: solid 1px;
+    color:white;
+}
+
+.detailsh-btn:hover{
+    color: #4555d2;
+    border: 2px solid  #4555d2;
+}
+
+
+.section3{ position: absolute;
+    height: 400px;
+    width: 1200px;
+top: 1300px;
+
+}
+
+.count-div{
+    position: relative;
+    display:inline-block;
+    top: 550px;
+    left: 200px;
+    width:900px;
+    left: 10px;
+}
+
+.num-div{
+    position: absolute;
+    display: inline-block;
+    height: 180px;
+    width: 200px;
+    left: 20px;
+}
+.num-div2{
+    position: absolute;
+    display: inline-block;
+    height: 180px;
+    width: 200px;
+    left: 320px;
+}
+.num-div3{
+    position: absolute;
+    display: inline-block;
+    height: 180px;
+    width: 200px;
+    left: 600px;
+}
+.num-div4{position: absolute;
+    display: inline-block;
+    height: 180px;
+    width: 200px;
+    left: 810px;
+}
+.num-cs{
+    font-size: 100px;
+    color: #191E47;
+}
+
+.details-div{
+    position: relative;
+    top: 1300px;
+}
+
+.details-imgdc{
+    position: absolute;
+    top: 50px;
+    width: 500px;
+    left: -310px;
+}
+
+.details-img1{
+    position: absolute;
+    width: 500px;
+    top:60px;
+}
+
+.info{
+    position: absolute;
+    top: 110px;
+    left: 500px;
+}
+
+.get-btn{
+    font-size: 15px;
+    color: white;
+    background-color:#4555D2 ;
+    border: 1px solid #4555D2;
+}
+
+.get-btnho:hover{
+    color: #4555D2;
+    border: 1px solid #4555D2;
+
+}
+
+.service{
+    position: absolute;
+    top: 2300px;
+    left: 10px;
+    width: 1300px;
+    height: 500px;
+}
+.cardall{
+    position: absolute;
+    left: 430px;
+    height: 200px;
+    width: 840px;
+font-size: 10px;
+justify-content: center;}
+
+.cardall2{
+    position: absolute;
+    height: 200px;
+    left: 520px;
+    width: 840px;
+    top: 230px;
+    font-size: 10px;
+}
+
+.Serviceswe{
+    position:absolute;
+    color: #191E47;
+    top: 50px;
+    width: 200px;
+}
+
+.d2{
+    position: relative;
+    top: 2455px;
+
+}
+
+.detail-img2{
+    position: absolute;
+    left: 800px;
+}
+
+.starp{
+    position: absolute;
+    right: -90px;
+    width: 500px;
+}
+
+.pra-div{
+    color: #191E47;
+    position: absolute;
+    top: 50px;
+}
+.details-btn2{
+    background-color: #4555D2;
+    border: #4555D2 1px solid;
+    color: white;
+}
+.details-btn2:hover{
+    border: #4555D2 1px solid;
+    color:#4555D2;
+}
+
+.get-qute{
+    position: absolute;
+    top: 700px;
+    justify-content: center;
+    text-align: center;
+    height: 350px;
+    width: 1100px;
+}
+
+.project-sec{
+    position: absolute;
+    top: 3900px;
+    left: 100px;
+}
+
+
+.contect-div{
+    position:relative;
+    top: 4350px;
+}
+
+.contect-star{
+    position: absolute;
+    left: -370px;
+    width:530px;
+}
+
+.contect-star2{
+    position: absolute;
+    left: 1000px;
+    width: 490px;
+}
+
+.formp{
+    position: absolute;
+    top: 50px;
+    height: 400px;
+    width: 500px;
+    left: 600px;
+}
+
+.masg{ position: absolute;
+    padding-bottom: 150px;
+}
+.contect-btn2{
+    position: absolute;
+    top: 450px;
+    background-color: #4555D2;
+    border: #4555D2 1px solid;
+    color: white;
+    padding-left: 225px;
+    padding-right: 225px;
+}
+.contect-btn2:hover{
+    border: #4555D2 1px solid;
+    color:#4555D2;
+}
+
+.lastrection{
+    position: absolute;
+    height: 350px;
+    width: 1290px;
+}
+
+.fist{
+    position: absolute;
+    top: 110px;
+    left: 100px;
+    font-size:x-small;
+}
+
+.second{
+    position: absolute;
+    top: 110px;
+    left: 470px;
+    font-size:x-small;
+
+}
+
+.lastentry{
+    position: absolute;
+    top: 290px;
+    left: 510px;
+    font-size:x-small;
+
+}
+
+.sm-logo{
+    position: absolute;
+    top: 110px;
+    left: 900px;
+    font-size:x-small;
+}
+
+.logos{
+    width: 25px;
+    color:white;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.main{
+    position: relative;
+    height: 500px;
+}
+
+.slide-back{
+    background-color: white;
+}
+
+.slider-mark{
+    position: relative;
+    top: 4250px;
+    width: 150px;
+left: 160px;}
+.slidesec{
+    position: relative;
+    top: 4100px;
+    left: 230px;
+    height: 400px;
+    width: 900px;
+    justify-content: center;
+}
+.slide-img{
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 70px;
+}
+
+.slide-h{
+    color: #191E47;
+}
